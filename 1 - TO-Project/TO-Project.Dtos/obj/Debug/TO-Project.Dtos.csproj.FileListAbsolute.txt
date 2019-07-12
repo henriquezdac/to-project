@@ -1,0 +1,9 @@
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Dtos\bin\Debug\TO-Project.Dtos.dll
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Dtos\bin\Debug\TO-Project.Dtos.pdb
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Dtos\bin\Debug\TO-Project.Util.dll
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Dtos\bin\Debug\TO-Project.Util.pdb
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Dtos\obj\Debug\TO-Project.Dtos.csprojAssemblyReference.cache
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Dtos\obj\Debug\TO-Project.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Dtos\obj\Debug\TO-Project.Dtos.csproj.CopyComplete
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Dtos\obj\Debug\TO-Project.Dtos.dll
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Dtos\obj\Debug\TO-Project.Dtos.pdb

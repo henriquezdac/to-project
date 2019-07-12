@@ -1,0 +1,8 @@
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Util\bin\Debug\TO-Project.Util.dll
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Util\bin\Debug\TO-Project.Util.pdb
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Util\obj\Debug\TO-Project.Util.csprojAssemblyReference.cache
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Util\obj\Debug\TO_Project.Util.Resources.Mensagens.resources
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Util\obj\Debug\TO-Project.Util.csproj.GenerateResource.cache
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Util\obj\Debug\TO-Project.Util.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Util\obj\Debug\TO-Project.Util.dll
+C:\Users\Henrique\source\repos\TO-Project.App\TO-Project.Util\obj\Debug\TO-Project.Util.pdb

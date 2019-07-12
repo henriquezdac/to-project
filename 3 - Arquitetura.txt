@@ -1,0 +1,18 @@
+Em termos da arquitetura a ser utilizada nas novas soluções iria aconselhar um padrão de arquitetura baseada em micro-serviços com comunicações baseadas nos protocolos
+http e o uso de orquestradores para organização das transferências de informações junto à uma unificação e padronização de um sistema de logs para manter um alto nível de
+rastreabilidade na solução. Sendo algumas das principais vantagens na utilização da arquitetura baseada em micro-serviços o desacoplamento de cada processo ao serem
+desenvolvidos/implantados como contâiners independentes e assim possibilitando a sua implantação sem impactar outros subsistemas, além da possibilidade de se utilizar
+diferentes linguagens de programação para melhorias de performance.
+
+Em termos de armazenamento de banco de dados e considerando um alto potencial de necessidade de escalabilidade da solução em questão iria aconselhar que os
+novos projetos fossem desenvolvidos utilizando um banco de dados não-relacional (como por exemplo o MongoDB ou similar) devido a ser um banco de dados
+horizontalmente escalável, de alta performance em consultas simples e possui uma flexibilidade sobre adição de novas informações. Neste mesmo cenário com a implantação
+de micro-serviços haveria uma necessidade de que cada micro-serviço possuir seu próprio banco de dados.
+
+Tomando com base as considerações acima junto a uma alta modularização de componentes, a integração com o sistema legado e também sua migração para novos
+micro-serviços poderia ocorrer sem grandes impactos devido aos módulos de desenvolvimento serem feitos a parte. Logo tanto o desenvolvimento quanto publicação dos sistemas
+seriam independentes entre si.
+
+De modo a realizar a implantação deste cenário aconselharia a utilização de um Docker para sua automatização ao permitir a possibilidade de criar, testar e implementar
+aplicações em um contâiner e assim agilizando o processo para publicação com segurança. Outra grande vantagem do uso do Docker neste cenário é que este permite que o 
+desenvolvedor consiga desabilitar parte da aplicação para a realização de reparos ou adição de funcionalidades.
